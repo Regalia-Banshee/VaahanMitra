@@ -1,0 +1,27 @@
+# Python cache files
+*.pyc
+__pycache__/
+
+# Virtual environment directory
+venv/
+env/
+
+# Database files (if using SQLite)
+*.sqlite3
+
+# Django static and media files
+/static/
+/media/
+
+# Local environment variables or config files
+.env
+
+# IDE files (e.g., for VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Logs and debug output
+*.log
+
+# macOS system files
+.DS_Store
